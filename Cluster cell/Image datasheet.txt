@@ -1,0 +1,7 @@
+*Data image type: Wright-Giemsa staining image
+
+(1)MCF-7-cluster [227 x 227 x 3]: 501
+MCF-7-cluster Ground truth [800 x 600 x 3]: 270
+===================================
+(2) MDA-MB-231-cluster [227 x 227 x 3]: 503
+MDA-MB-231-cluster Ground truth [800 x 600 x 3]: 335

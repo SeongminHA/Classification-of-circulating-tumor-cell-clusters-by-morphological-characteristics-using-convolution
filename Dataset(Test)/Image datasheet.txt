@@ -1,0 +1,3 @@
+*Data image type: Wright-Giemsa staining image
+
+(1)six class random seeding data(800 x 600 x 3): 502
